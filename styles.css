@@ -1,0 +1,30 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.camilo-img{
+    width: 150px; 
+    border-radius: 8px;
+}
+.card{
+    background-color: rgb(198, 156, 109);
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 420px;
+    margin: 0px auto;
+    border: 2px solid rgb(108, 119, 178);
+    border-bottom: 20px solid rgb(108, 119, 178) ;
+}
+.italic{
+    font-style: italic;
+}
+.border{
+    border: 2px solid rgb(108, 119, 178);
+}
+.center-text{
+    text-align: center;
+}
+.color-text{
+    color:#2b2839;
+}
